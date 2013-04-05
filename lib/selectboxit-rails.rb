@@ -1,0 +1,1 @@
+require 'selectboxit/rails'

@@ -1,0 +1,3 @@
+[submodule "selectboxit"]
+	path = selectboxit
+	url = git://github.com/gfranko/jquery.selectBoxIt.js.git
